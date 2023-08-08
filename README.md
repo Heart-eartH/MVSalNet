@@ -1,8 +1,12 @@
 # MVSalNet
 (ECCV2022)MVSalNet:Multi-View Augmentation for RGB-D Salient Object Detection
+
 Jiayuan Zhou1, Lijun Wang1, Huchuan Lu1,2, Kaining Huang3, Xinchu Shi3 , Bocong Liu3
+
 1 Dalian University of Technology
+
 2 Peng Cheng Laboratory
+
 3 Meituan
 
 The code of MVSalNet in ECCV2022
