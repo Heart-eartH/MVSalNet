@@ -35,7 +35,7 @@ Single-view saliency prediction module
 
 Multi-view fusion module
 
-![image](src="utils/fig2.png" width = "30%" height = "30%")
+<img src="utils/fig2.png" width = "30%" height = "30%" alt="" align=center />
 
 ## Visual Comparisons
 ![image](utils/compare.png)
