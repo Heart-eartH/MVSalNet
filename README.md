@@ -27,7 +27,7 @@ Reconstruct the 3D point cloud based on the input scene depth.
 
 Project the point cloud to a specific target view to render the RGB image.
 
-![image](utils/fig1.png)
+![image](utils/fig1.png=250x)
 
 ## Multi-View Saliency Detection Network
 
@@ -40,4 +40,8 @@ Multi-view fusion module
 ## Visual Comparisons
 ![image](utils/compare.png)
 
+## Brief Summary
+A new RGB-D salient object detection (SOD) framework to take full advantages of 3D geometry information contained in depth maps.
+A multi-view salient detection network (MVSalNet).
+Experiments on six popular benchmarks verify the effectiveness.
 
