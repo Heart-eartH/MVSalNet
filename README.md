@@ -46,6 +46,8 @@ Multi-view fusion module
 
 ## Brief Summary
 A new RGB-D salient object detection (SOD) framework to take full advantages of 3D geometry information contained in depth maps.
+
 A multi-view salient detection network (MVSalNet).
+
 Experiments on six popular benchmarks verify the effectiveness.
 
