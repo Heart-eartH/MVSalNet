@@ -38,7 +38,7 @@ Multi-view fusion module
 <img src="utils/fig2.png" width = "550" height = "300" alt="" align=center />
 
 ## Visual Comparisons
-![image](utils/compare.png)
+<img src="utils/compare.png" width = "550" height = "430" alt="" align=center />
 
 ## Brief Summary
 A new RGB-D salient object detection (SOD) framework to take full advantages of 3D geometry information contained in depth maps.
