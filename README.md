@@ -27,7 +27,7 @@ Reconstruct the 3D point cloud based on the input scene depth.
 
 Project the point cloud to a specific target view to render the RGB image.
 
-![image](utils/fig1.png=550x355)
+![image](utils/fig1.png)
 
 ## Multi-View Saliency Detection Network
 
@@ -35,7 +35,7 @@ Single-view saliency prediction module
 
 Multi-view fusion module
 
-![image](utils/fig2.png)
+![image](src="utils/fig2.png" width = "30%" height = "30%")
 
 ## Visual Comparisons
 ![image](utils/compare.png)
